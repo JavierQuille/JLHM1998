@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'IBM Plex Serif', Georgia, serif; letter-spacing: 0.5px;">
-  José&nbsp;Luis&nbsp;Huanuqueño&nbsp;Murillo
+  Javier&nbsp;Alvaro&nbsp;Huanuqueño&nbsp;Murillo
 </h1>
 
 <p align="center">
